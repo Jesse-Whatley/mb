@@ -5,3 +5,4 @@ from django.views.generic import (
 )
 
 from .models import Post
+
