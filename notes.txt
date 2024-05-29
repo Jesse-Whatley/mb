@@ -1,0 +1,21 @@
+How to make migriations to use databases 
+    * python3 manage.py makemigrations [APP_NAME]
+
+To run migriations
+    * python3 mange.py migrate
+
+to creat admin user 
+    * python3 manage.py createsuperuser
+    * email: crackerculturecollections@gmail.com
+    * password: letssmoke1!!
+
+
+run server
+    * python3 manage.py runserver
+
+
+
+inheritance 
+
+composition ==> 
+
